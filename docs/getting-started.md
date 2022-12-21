@@ -24,18 +24,18 @@
 
 To Start Installing New Libraries, Click on the W in the Top Right.
 
-![](./images/getting-started/getting-started01.png)
+![](/images/getting-started/getting-started01.png)
 
 Then Search for “Manage Vendor Libraries” and Click it
 
-![](./images/getting-started/getting-started02.png)
+![](/images/getting-started/getting-started02.png)
 
 Then Select “Install new libraries (Online)”
 
-![](./images/getting-started/getting-started03.png)
+![](/images/getting-started/getting-started03.png)
 
 Then Paste the Links put above for each corresponding library (CTRE in this example)
 
-![](./images/getting-started/getting-started04.png)
+![](/images/getting-started/getting-started04.png)
 
 Press Enter to confirm and install the library. Keep in mind that libraries are tied to branches and pushing code up also pushes the libraries up but also keep in mind that opening code in a different branch may result in certain libraries being absent.

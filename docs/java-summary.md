@@ -54,13 +54,13 @@ As seen here, the function here returns void and is available as a public functi
 
 Classes are what contain all the functions, constants, and variables for a specific object such as a subsystem or command. They make organizing these pieces of code easier and allow for the code to be more readable. To create a new class, right-click on either “subsystems” if you want to make a new subsystem, “commands” if you want to make a new command, or if you want to make a separate class not belonging to those 2 categories, right-click on “java\frc\robot”.
 
-![](./images/java-summary/java-summary01.png)
+![](/images/java-summary/java-summary01.png)
 
-![](./images/java-summary/java-summary02.png)
+![](/images/java-summary/java-summary02.png)
 
 Then select “Create a new class/command”. Then, select the type of subsystem you want to create. As stated above, choose which one suits your purpose. Keep in mind that you should always be using the “new” versions of these class templates.
 
-![](./images/java-summary/java-summary03.png)
+![](/images/java-summary/java-summary03.png)
 
 Once you have created the class it will look like this near the top, with differences if you chose a different template (I chose Command (New)) and whatever name you chose.
 

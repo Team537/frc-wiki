@@ -10,11 +10,11 @@ Github and by proxy git have many features and they are very useful. The basis o
 
 As seen here, you can see the repository in the top left corner along with the current branch to the right side of it with the option to fetch origin, which is basically pulling code down.You can see that there are no changed files here but if there were, they would show up there. In the bottom right corner, you can see the option to commit which is darkened because there are now changes to commit. Above that you can see stashed changes which are changes you don’t want to push but also don’t want to lose when you pull down. You can change the current branch by clicking on the current branch which brings up a menu. When you edit code, your changes will show up as shown below.
 
-![](./images/git-summary/git-summary02.png)
+![](/images/git-summary/git-summary02.png)
 
 You will be shown an interface showing the original version and what has been changed. You can choose to commit but you must add a description first. Once you commit you should be able to see it when you click on History.
 
-![](./images/git-summary/git-summary03.png)
+![](/images/git-summary/git-summary03.png)
 
 To push the code, click on the button that is next to the Current Branch. Once you do this, you should be good and the merge should show up in the history.
 

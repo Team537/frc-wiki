@@ -106,7 +106,7 @@ The syntax inside of the StartEndCommand is called a lambda expression, and is a
 robotDrive.arcadeDrive(
     -leftRateLimiter.calculate(driverController.getLeftY()),
     -rightRateLimiter.calculate(driverController.getRightX()),
-)
+);
 ```
 
 Here the function to get the position of the joystick is written that shows which Joystick is used and what axis is being measured. You can ignore the calculate function as it pertains to Slew Rate Limiters and how they smooth out driver controls by adjusting the actuation curve. 

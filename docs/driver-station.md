@@ -6,7 +6,7 @@ The Driver Station is what drivers use to enable and disable the robot for testi
 
 To deploy code to the robot click on the W in the Top Right corner and search “Deploy Robot Code”. Keep in mind that before deploying code you must connect to the rio whether it  be by ethernet or by radio. After this, open the FRC Driver Station. The following interface should show up.
 
-![](./images/driver-station/driver-station01.png)
+![](/images/driver-station/driver-station01.png)
 
 If you did this correctly, there should be Robot Code, Communications and Joysticks if they are connected. You can then select what Op mode you want to run. Teleop is what is controlled by the driver and Autonomous is what the robot does without any driver input. You can then press Enable to run the code. ALWAYS TELL EVERYONE WHEN YOU ENABLE AS TYPICALLY THE ROBOT CAN CAUSE HARM WHEN TRAVELING AT HIGH SPEEDS. This is simply for safety reasons and for the simple fact we don’t want to hurt anyone. Even if there is no code for driving or an auto doesn’t contain driving, anything can happen so it's always important to alert everyone and take precautions
 
