@@ -1,4 +1,4 @@
-# Learning Java
+# Learn Java
 
 Currently our robot is programmed using the Java programming language. It's strongly recommended that you're familiar with programming in Java/a similar language before diving into robotics as everything is built on understanding programming.
 
