@@ -9,7 +9,7 @@ If something is missing or inaccurate, please open a pull request to keep this u
 If you're unfamilar with programming, it's strongly recommended you check out these resources before diving into robotics content. Learning the foundational skills will greatly help with the later materials!
 
 * 💻 Programming Resources
-    * [💻 Learn Java](./docs/learn-java.md)
+    * [📖 Learn Java](./docs/learn-java.md)
     * [🌲 Learn Git](./docs/learn-git.md)
 * 🤖 FRC Resources
     * [How code is involved in FRC](./docs/code-process.md)
