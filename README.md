@@ -1,4 +1,4 @@
-# frc-wiki
+# frc-java-wiki
 
 This is a wiki meant to house all materials related to FRC!
 
